@@ -1,0 +1,619 @@
+{
+  "updated_at": "2026-03-29",
+  "platforms": {
+    "amazon": {
+      "beauty": [
+        {
+          "rank": 1,
+          "title": "amika Hydro Rush Intense Moisture Leave-In Conditioner with Hyaluronic Acid",
+          "price": "$14.00",
+          "rating": "4.5",
+          "review_count": "3,724",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/61lbtpxYmkL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/Conditioner-Hyaluronic-long-lasting-hydration-detangles/dp/B0DT27RCG3/",
+          "change": "+665%"
+        },
+        {
+          "rank": 2,
+          "title": "Pureology Color Fanatic Multi-Tasking Leave-In Spray - Detangling & Frizz Control, 21 Benefits",
+          "price": "$9.10",
+          "rating": "4.6",
+          "review_count": "20,373",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/515FurDczQL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/Pureology-Multi-Tasking-Color-Treated-Protectant-Sulfate-Free/dp/B08999XXNN/",
+          "change": "+243%"
+        },
+        {
+          "rank": 3,
+          "title": "DRMTLGY Universal Tinted Moisturizer SPF 46 – Hydrating Dewy Tinted Sunscreen, Niacinamide & Hyaluronic Acid",
+          "price": "$24.60",
+          "rating": "4.1",
+          "review_count": "37,225",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/51863wSWr+L._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/DRMTLGY-Anti-Aging-Moisturizer-Foundation-Protection/dp/B07RW4CHC3/",
+          "change": "+209%"
+        },
+        {
+          "rank": 4,
+          "title": "Julep Eyeshadow 101 Cream-to-Powder Waterproof Shadow Stick – Champagne Shimmer",
+          "price": "$7.50",
+          "rating": "4.3",
+          "review_count": "57,016",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P-k2IHyiL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/Julep-Eyeshadow-Hypoallergenic-Waterproof-Available/dp/B01LW1983J/",
+          "change": "+170%"
+        },
+        {
+          "rank": 5,
+          "title": "COLOR WOW Xtra Large Bombshell Volumizer – Alcohol-Free Technology for Lasting Volume",
+          "price": "$12.00",
+          "rating": "4.1",
+          "review_count": "30,892",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WWLemadxL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/COLOR-WOW-Large-Bombshell-Volumizer/dp/B0CBQR26HG/",
+          "change": "+133%"
+        },
+        {
+          "rank": 6,
+          "title": "Anastasia Beverly Hills - Brow Wiz Ultra-Slim Brow Pencil",
+          "price": "$13.00",
+          "rating": "4.5",
+          "review_count": "26,859",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/51rEymPTPQL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/Anastasia-Beverly-Hills-Brow-Brown/dp/B08QM8YLZ8/",
+          "change": "+127%"
+        },
+        {
+          "rank": 7,
+          "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask – Elasticity & Hydration",
+          "price": "$14.90",
+          "rating": "4.5",
+          "review_count": "17,668",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/61occWCJN-L._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/Medicube-Collagen-Wrapping-Elasticity-Hydration/dp/B0BRMYHMS5/",
+          "change": "+50%"
+        },
+        {
+          "rank": 8,
+          "title": "BIODANCE Hydro Cera-nol Real Deep Mask, Overnight Hydrogel Face Mask, Korean Skin Care",
+          "price": "$15.20",
+          "rating": "4.5",
+          "review_count": "39,149",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/51I-7kZ6SKL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/BIODANCE-Cera-nol-Overnight-Moisturizing-Nourishing/dp/B0CWGSP1WY/",
+          "change": "+33%"
+        },
+        {
+          "rank": 9,
+          "title": "medicube Collagen Jelly Cream – Niacinamide & Freeze-Dried Hydrolyzed Collagen, Korean Skincare",
+          "price": "$9.90",
+          "rating": "4.4",
+          "review_count": "22,855",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aDluwKSxL._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/medicube-Collagen-Niacinamide-Freeze-Dried-Hydrolyzed/dp/B0DGPSZVW3/",
+          "change": "+33%"
+        },
+        {
+          "rank": 10,
+          "title": "Illiyoon Ceramide Ato Lotion – Lightweight Moisturizer for Dry & Sensitive Skin, Korean Skincare",
+          "price": "$9.49",
+          "rating": "4.6",
+          "review_count": "2,409",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ieckO8l-L._AC_UL300_SR300,200_.jpg",
+          "product_url": "https://www.amazon.com/Illiyoon-Moisturizer-Sensitive-Hydration-Cruelty-Free/dp/B0BW8P86YY/",
+          "change": "+33%"
+        }
+      ]
+    },
+    "cosme": {
+      "beauty": [
+        {
+          "rank": 1,
+          "title": "ネピア 鼻セレブ ティシュ",
+          "price": "",
+          "rating": "5.3",
+          "review_count": "3,392",
+          "image_url": "https://fitter.cosme.net/media/product/346/skuimg_1092079.jpg",
+          "product_url": "https://www.cosme.net/products/346254/",
+          "change": ""
+        },
+        {
+          "rank": 2,
+          "title": "CICIBELLA シシベラ 3D小顔マスク",
+          "price": "",
+          "rating": "4.9",
+          "review_count": "185",
+          "image_url": "https://fitter.cosme.net/media/product/10236/skuimg-d_85616.jpg",
+          "product_url": "https://www.cosme.net/products/10236888/",
+          "change": ""
+        },
+        {
+          "rank": 3,
+          "title": "myFine myFineマスク",
+          "price": "",
+          "rating": "4.9",
+          "review_count": "56",
+          "image_url": "https://fitter.cosme.net/media/product/10291/skuimg_1092587.jpg",
+          "product_url": "https://www.cosme.net/products/10291875/",
+          "change": ""
+        },
+        {
+          "rank": 4,
+          "title": "CEZANNE セザンヌ 皮脂テカリ防止下地",
+          "price": "¥660",
+          "rating": "4.6",
+          "review_count": "22,104",
+          "image_url": "https://fitter.cosme.net/media/product/8003/skuimg_1083439.jpg",
+          "product_url": "https://www.cosme.net/products/8003897/",
+          "change": ""
+        },
+        {
+          "rank": 5,
+          "title": "Sugao シルク感CCクリーム",
+          "price": "¥880",
+          "rating": "4.3",
+          "review_count": "14,872",
+          "image_url": "https://fitter.cosme.net/media/product/7684/skuimg_1083748.jpg",
+          "product_url": "https://www.cosme.net/products/7684930/",
+          "change": ""
+        },
+        {
+          "rank": 6,
+          "title": "IHADA アイハダ 薬用クリアバーム",
+          "price": "¥1,320",
+          "rating": "4.4",
+          "review_count": "9,821",
+          "image_url": "https://fitter.cosme.net/media/product/9636/skuimg_1080321.jpg",
+          "product_url": "https://www.cosme.net/products/9636497/",
+          "change": ""
+        },
+        {
+          "rank": 7,
+          "title": "水橋保寿堂製薬 ひたひたシートマスク",
+          "price": "¥110",
+          "rating": "4.5",
+          "review_count": "7,634",
+          "image_url": "https://fitter.cosme.net/media/product/8702/skuimg_1060874.jpg",
+          "product_url": "https://www.cosme.net/products/8702356/",
+          "change": ""
+        },
+        {
+          "rank": 8,
+          "title": "KATE ケイト リップモンスター",
+          "price": "¥1,540",
+          "rating": "4.5",
+          "review_count": "31,459",
+          "image_url": "https://fitter.cosme.net/media/product/9785/skuimg_1090831.jpg",
+          "product_url": "https://www.cosme.net/products/9785278/",
+          "change": ""
+        },
+        {
+          "rank": 9,
+          "title": "キュレル 潤浸保湿 フェイスクリーム",
+          "price": "¥1,980",
+          "rating": "4.5",
+          "review_count": "12,033",
+          "image_url": "https://fitter.cosme.net/media/product/1040/skuimg_1080426.jpg",
+          "product_url": "https://www.cosme.net/products/1040006/",
+          "change": ""
+        },
+        {
+          "rank": 10,
+          "title": "ELIXIR エリクシール シュペリエル つや玉ミスト",
+          "price": "¥1,980",
+          "rating": "4.4",
+          "review_count": "8,912",
+          "image_url": "https://fitter.cosme.net/media/product/8869/skuimg_1082941.jpg",
+          "product_url": "https://www.cosme.net/products/8869474/",
+          "change": ""
+        }
+      ]
+    },
+    "qoo10": {
+      "beauty": [
+        {
+          "rank": 1,
+          "title": "UIQ ゆらがないいつまでもクリアな素肌セット（クーリングパッド・肌バリアケア）",
+          "price": "¥3,900",
+          "rating": "",
+          "review_count": "2,716",
+          "image_url": "https://gd.image-qoo10.jp/li/566/581/8107581566.g_300-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e6%9c%ac%e6%97%a5%e9%99%90%e5%ae%9aSALE-%e6%9c%ac%e5%93%81GIFT-%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%bb%e3%83%a9%e3%83%a04ML1%e6%9c%ac-%e3%81%be%e3%81%a4%e6%af%9b%e7%be%8e%e5%ae%b9%e6%b6%b2-%e3%83%9e%e3%83%84%e3%83%91%e3%83%bb%e3%83%9e%e3%83%84%e3%82%a8%e3%82%afOK-%e3%81%99%e3%81%90%e3%81%ab%e3%81%8a%e5%b1%8a%e3%81%91%ef%bc%81/960831016",
+          "change": ""
+        },
+        {
+          "rank": 2,
+          "title": "Kopher 【Qoo10LIVE】自分肌を好きになる寄り添いセット",
+          "price": "¥4,779",
+          "rating": "",
+          "review_count": "7,893",
+          "image_url": "https://gd.image-qoo10.jp/li/178/951/8067951178.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e6%9c%88%e6%9b%9c%e6%97%a5-%e3%83%91%e3%83%b3%e3%83%86%e3%83%8e%e3%83%bc%e3%83%ab%e3%82%b7%e3%82%ab-%e3%82%b7%e3%83%bc%e3%83%88%e3%83%9e%e3%82%b9%e3%82%af-10%e6%9e%9a%e5%85%a5-%e8%82%8c%e3%83%aa%e3%82%bb%e3%83%83%e3%83%88-1%e9%80%b1%e9%96%93%e9%9b%86%e4%b8%ad%e3%82%b1%e3%82%a2/1196558096",
+          "change": ""
+        },
+        {
+          "rank": 3,
+          "title": "LEPOREM アイラッシュセラム4ml まつ毛美容液 マツパ・マツエクOK",
+          "price": "¥799",
+          "rating": "",
+          "review_count": "10,351",
+          "image_url": "https://gd.image-qoo10.jp/li/705/731/8068731705.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e3%81%8a%e3%81%ad%e5%89%b2%e3%81%8c%e3%81%a4%e3%81%84%e3%81%ab%e5%be%a9%e6%b4%bb%ef%bc%81-%e3%82%86%e3%82%89%e3%81%8c%e3%81%aa%e3%81%84%e3%81%84%e3%81%a4%e3%81%be%e3%81%a7%e3%82%82%e3%82%af%e3%83%aa%e3%82%a2%e3%81%aa%e7%b4%a0%e8%82%8c%e3%82%bb%e3%83%83%e3%83%88-%e9%80%8f%e6%98%8e%e6%84%9f-%e3%81%86%e3%82%8b%e3%83%84%e3%83%a4-%e3%82%af%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%91%e3%83%83%e3%83%89-%e8%82%8c%e3%83%90%e3%83%aa%e3%82%a2%e3%82%b1%e3%82%a2/1083279745",
+          "change": ""
+        },
+        {
+          "rank": 4,
+          "title": "Lemieu ルミュー ワンデーカラコン (1箱10枚入)",
+          "price": "¥699",
+          "rating": "",
+          "review_count": "5,518",
+          "image_url": "https://gd.image-qoo10.jp/li/566/581/8107581566.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e5%85%ac%e5%bc%8f%e6%ad%a3%e5%93%81%ef%bc%8f%e6%96%b0%e7%99%ba%e5%a3%b2-%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97%e3%82%bf%e3%83%88%e3%82%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%83%88-4G/1147259677",
+          "change": ""
+        },
+        {
+          "rank": 5,
+          "title": "ヒーローリップタトゥーティント 4g（公式正品・新発売）",
+          "price": "¥1,950",
+          "rating": "",
+          "review_count": "8,213",
+          "image_url": "https://gd.image-qoo10.jp/li/181/528/8096528181.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e6%96%b0%e8%89%b2%e7%99%bb%e5%a0%b4-1%e7%ae%b1-%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%a4%e3%83%86%e3%82%a3%e3%82%a2%e3%83%81%e3%83%a3%e3%82%b3%e3%83%bc%e3%83%ab-%e9%9f%93%e5%9b%bd-%e3%82%ab%e3%83%a9%e3%82%b3%e3%83%b3-1DAY-%e6%b0%b4%e5%85%89-10%e6%9e%9a%e5%85%a5-%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%96%e3%83%a9%e3%83%83%e3%82%af-%e3%83%a0%e3%83%bc%e3%83%89%e3%83%81%e3%83%a7%e3%82%b3-%e3%83%aa%e3%82%a2%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5/1018441282",
+          "change": ""
+        },
+        {
+          "rank": 6,
+          "title": "メディキューブ AGE-Rブースタープロ 1台6役高級エステケア 美顔器",
+          "price": "¥35,500",
+          "rating": "",
+          "review_count": "36,017",
+          "image_url": "https://gd.image-qoo10.jp/li/464/768/6887768464.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/1%e7%ae%b12%e6%9e%9a-MOLAK-%e3%83%a2%e3%83%a9%e3%82%af-%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc-%e6%b0%b4%e5%85%89%e3%82%ab%e3%83%a9%e3%82%b3%e3%83%b3-GP-MOLAK-1MONTH-PI/835953303",
+          "change": ""
+        },
+        {
+          "rank": 7,
+          "title": "メノキン スペシャルコラボ・バブルマスク3種セット",
+          "price": "¥6,910",
+          "rating": "",
+          "review_count": "219",
+          "image_url": "https://gd.image-qoo10.jp/li/588/474/8096474588.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e8%84%b1%e8%89%b2-5%e5%9b%9e%e5%88%86-%e3%82%a4%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%96%e3%83%ad%e3%82%a6%e3%83%88%e3%83%bc%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc-%e3%82%a4%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%96%e3%83%ad%e3%82%a6%e3%83%a0%e3%83%bc%e3%83%89%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc-%e3%83%96%e3%83%aa%e3%83%bc%e3%83%81-%e7%9c%89%e6%af%9b%e8%84%b1%e8%89%b2/880124273",
+          "change": ""
+        },
+        {
+          "rank": 8,
+          "title": "ミルクタッチ 3月ぽっきり限定特価セット",
+          "price": "¥690",
+          "rating": "",
+          "review_count": "7,412",
+          "image_url": "https://gd.image-qoo10.jp/li/717/742/7530742717.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/2%e7%ae%b1-1%e7%ae%b1-1%e7%ae%b110%e6%9e%9a-MOLAK-%e3%83%a2%e3%83%a9%e3%82%af-%e3%83%af%e3%83%b3%e3%83%87%e3%83%bc-%e6%b0%b4%e5%85%89%e3%82%ab%e3%83%a9%e3%82%b3%e3%83%b3-MOLAK-1DAY-2-1-PI/835953298",
+          "change": ""
+        },
+        {
+          "rank": 9,
+          "title": "OLENS グローイティアチャコール 韓国カラコン 1day 10枚入",
+          "price": "¥1,742",
+          "rating": "",
+          "review_count": "93,121",
+          "image_url": "https://gd.image-qoo10.jp/li/944/096/5210096944.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e6%96%b0%e8%89%b2%e7%99%bb%e5%a0%b4-2%e7%ae%b1-%e6%96%b0%e8%89%b2%e7%99%bb%e5%a0%b4-%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%a4%e3%83%86%e3%82%a3%e3%82%a2%e3%83%81%e3%83%a3%e3%82%b3%e3%83%bc%e3%83%ab%e9%9f%93%e5%9b%bd-%e3%82%ab%e3%83%a9%e3%82%b3%e3%83%b3-1DAY-%e6%b0%b4%e5%85%89-1%e7%ae%b110%e6%9e%9a%e5%85%a5-%e3%83%a0%e3%83%bc%e3%83%89%e3%83%8a%e3%82%a4%e3%83%88%e3%83%81%e3%83%a7%e3%82%b3-%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%96%e3%83%a9%e3%83%83%e3%82%af/1021126500",
+          "change": ""
+        },
+        {
+          "rank": 10,
+          "title": "コスノリ イージーブロウトーンチェンジャー 眉毛脱色 5回分",
+          "price": "¥2,800",
+          "rating": "",
+          "review_count": "3,532",
+          "image_url": "https://gd.image-qoo10.jp/li/432/694/5622694432.g_150-w-st_g.jpg",
+          "product_url": "https://www.qoo10.jp/item/%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a-500%e5%86%86-%e8%a8%b3%e3%81%82%e3%82%8a%e3%82%bb%e3%83%bc%e3%83%ab-%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%a0%e3%83%aa%e3%83%83%e3%83%97%e3%83%97%e3%83%a9%e3%83%b3%e3%83%91%e3%83%bc-%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b0%e3%83%ad%e3%82%a6-%e3%83%86%e3%82%a3%e3%83%b3%e3%83%88-%e3%83%aa%e3%83%83%e3%83%97%e3%83%9a%e3%83%b3%e3%82%b7%e3%83%ab-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%9f%e3%83%b3%e3%82%b0%e3%83%99%e3%83%bc%e3%83%ab/1060239232",
+          "change": ""
+        }
+      ]
+    },
+    "naver": {
+      "beauty": [
+        {
+          "rank": 1,
+          "title": "톤28 해남404 펩타시카 새벽크림 50ml, 1개",
+          "price": "₩21,800",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5192951/51929512433.20250113184328.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/51929512433",
+          "change": ""
+        },
+        {
+          "rank": 2,
+          "title": "킹스파워 이데셀크림 50ml, 1개",
+          "price": "₩39,000",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5837705/58377054621.20260104001620.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/58377054621",
+          "change": ""
+        },
+        {
+          "rank": 3,
+          "title": "지아자 산양유 나이트 크림 50ml, 1개",
+          "price": "₩4,750",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5192950/51929505991.20260130105310.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/51929505991",
+          "change": ""
+        },
+        {
+          "rank": 4,
+          "title": "스킨톡 마녀 크림 100ml, 1개",
+          "price": "₩16,800",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5192928/51929287674.20241213210621.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/51929287674",
+          "change": ""
+        },
+        {
+          "rank": 5,
+          "title": "아르지니아 쏙쏙 재생크림 리포좀 PDRN NMN 피부과 레이저 시술 후 진정 색소침착 100ml",
+          "price": "₩24,500",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_9063026/90630264238.4.jpg",
+          "product_url": "https://smartstore.naver.com/main/products/13085753146",
+          "change": ""
+        },
+        {
+          "rank": 6,
+          "title": "에스트라 아토베리어365 크림 80ml(신형), 1개",
+          "price": "₩19,510",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5500458/55004584806.20250528161010.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/55004584806",
+          "change": ""
+        },
+        {
+          "rank": 7,
+          "title": "코스워커 알로에크림 나이아신아마이드 미백 수분 크림 50ml, 1개",
+          "price": "₩23,900",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5776343/57763433344.20260116170118.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/57763433344",
+          "change": ""
+        },
+        {
+          "rank": 8,
+          "title": "유카자생크림 재생 진정 유황 시카 EGF 세라마이드 피부과 레이저 아줄렌",
+          "price": "₩33,000",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_8243936/82439360120.28.jpg",
+          "product_url": "https://smartstore.naver.com/main/products/4894836564",
+          "change": ""
+        },
+        {
+          "rank": 9,
+          "title": "아이엠케어 셀토닝 미페어 크림 60ml, 1개",
+          "price": "₩31,000",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_5912717/59127176460.20260303122802.jpg",
+          "product_url": "https://search.shopping.naver.com/catalog/59127176460",
+          "change": ""
+        },
+        {
+          "rank": 10,
+          "title": "대용량 리포좀 300MG 수분 크림 재생 달팽이 보습 콜라겐 탄력 영양 시카 EGF 미백",
+          "price": "₩33,900",
+          "rating": "-",
+          "review_count": "-",
+          "image_url": "https://shopping-phinf.pstatic.net/main_9012657/90126577567.12.jpg",
+          "product_url": "https://smartstore.naver.com/main/products/12582066711",
+          "change": ""
+        }
+      ]
+    },
+    "temu": {
+      "beauty": [
+        {
+          "rank": 1,
+          "title": "Women's Dresses",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1f29b0c4a0/b0334834-7562-4d56-b501-0e08d6c8abab_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-dresses-o4-31.html",
+          "change": ""
+        },
+        {
+          "rank": 2,
+          "title": "Women's Blouses & Shirts",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1f29b0c4a0/ebe9aa96-6f8c-4957-b70e-a9d41344a2b4_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-blouses-shirts-o4-29.html",
+          "change": ""
+        },
+        {
+          "rank": 3,
+          "title": "Women's Swimsuits",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1ea26cc939/9533f9f2-5229-4962-b2c7-10c73af2dca0_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-swimsuits-o4-533.html",
+          "change": ""
+        },
+        {
+          "rank": 4,
+          "title": "Women's Coats & Jackets",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1e14dde0136/b7d80419-f356-420a-b469-ee9303bb75bb_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-coats-jackets-o4-721.html",
+          "change": ""
+        },
+        {
+          "rank": 5,
+          "title": "Women's Two Piece Sets",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1e14dde0b24/13f2a045-f4fc-4860-a22b-ee69148fbb05_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-two-piece-sets-o4-829.html",
+          "change": ""
+        },
+        {
+          "rank": 6,
+          "title": "Women's Jumpsuits",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1e13cb94884/d4e10bfe-de44-4f01-8d45-cfba2cddcf5e_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-jumpsuits-o4-1035.html",
+          "change": ""
+        },
+        {
+          "rank": 7,
+          "title": "Women's Pants",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1ea26ce532/8be26aa2-b04e-44fe-89c3-84ee858ca2a4_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-pants-o4-30.html",
+          "change": ""
+        },
+        {
+          "rank": 8,
+          "title": "Women's Boots",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1e133b30000/20d1c3f2-605b-4451-a08f-a5c23a026cf7_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-boots-o4-788.html",
+          "change": ""
+        },
+        {
+          "rank": 9,
+          "title": "Women's Knee High Boots",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1eed510230/dddc6247-ef0b-4236-a9db-1fcc3a1c5e12_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-knee-high-boots-o4-6872.html",
+          "change": ""
+        },
+        {
+          "rank": 10,
+          "title": "Women's Fashion Sneakers",
+          "price": "",
+          "rating": "",
+          "review_count": "",
+          "image_url": "https://img.kwcdn.com/product/1e65f7051c/e6d59797-d2f2-4695-b85f-aeebfb477d42_213x213.png?imageView2/2/w/800/q/70/format/avif",
+          "product_url": "https://www.temu.com/c/womens-fashion-sneakers-o4-787.html",
+          "change": ""
+        }
+      ]
+    },
+    "ebay": {
+      "beauty": [
+        {
+          "rank": 1,
+          "title": "Augustinus Bader Best Seller Skincare Travel Set",
+          "price": "$65.00",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/sXwAAeSwd6RpoJPL/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/389674537670"
+        },
+        {
+          "rank": 2,
+          "title": "The Ordinary Mini Discovery Set, Limited Edition Best Seller Skincare Set",
+          "price": "$29.99",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/MqAAAeSwpXJo9EYH/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/198212302229"
+        },
+        {
+          "rank": 3,
+          "title": "Instant Rapid Face Lift - Stem Cell & Peptide Serum (2 units)",
+          "price": "$34.95",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/tv0AAOSw0theMhK5/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/164055541045"
+        },
+        {
+          "rank": 4,
+          "title": "OSEA Face + Body Bestsellers Set",
+          "price": "$28.99",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/CLEAAeSwcXppRY8j/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/358033305619"
+        },
+        {
+          "rank": 5,
+          "title": "celimax x ULTA Beauty Bestseller Trio Face Set Peeling Pad Moisturizer Pore Treatment",
+          "price": "$15.00",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/qYsAAeSwM~tpyIpj/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/137176467173"
+        },
+        {
+          "rank": 6,
+          "title": "Biossance Love, Joy + Bestsellers Skin Care Set with Squalane & Vitamin C",
+          "price": "$26.50",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/K2YAAeSwXBNpxv6g/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/397770070449"
+        },
+        {
+          "rank": 7,
+          "title": "Supergoop! Icons Only SPF Bestsellers Kit Travel Size Sunscreen Set",
+          "price": "$25.00",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/pnQAAeSwGvtpp3pL/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/206142652442"
+        },
+        {
+          "rank": 8,
+          "title": "EltaMD AM Restore Moisturizer 1.7 oz",
+          "price": "$31.99",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/vRkAAOSwjlhn2ZWn/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/197123177277"
+        },
+        {
+          "rank": 9,
+          "title": "EltaMD Oil-In-Gel Cleanser 3.4 oz",
+          "price": "$23.00",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/LFwAAOSwEXJmTkhA/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/196407127676"
+        },
+        {
+          "rank": 10,
+          "title": "Farmacy Farm To Face Bestsellers Skin Care Set 4 pcs",
+          "price": "$20.99",
+          "rating": "N/A",
+          "review_count": "N/A",
+          "image_url": "https://i.ebayimg.com/images/g/A6kAAeSw2lZo0J8m/s-l500.webp",
+          "product_url": "https://www.ebay.com/itm/167770373124"
+        }
+      ]
+    }
+  }
+}
