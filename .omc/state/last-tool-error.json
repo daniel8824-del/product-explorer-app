@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd /home/daniel/product-explorer-app && git log --oneline -5 2>&1\",\"description\":\"Check recent git history\"}",
-  "error": "Exit code 128\nfatal: not a git repository (or any of the parent directories): .git",
-  "timestamp": "2026-04-01T04:43:58.451Z",
-  "retry_count": 1
-}
